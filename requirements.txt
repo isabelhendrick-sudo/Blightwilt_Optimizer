@@ -1,0 +1,10 @@
+# Install a compatible torch/torchvision build for your hardware.
+# Versions are intentionally not locked; record the environment for each experiment.
+torch
+torchvision
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+matplotlib
